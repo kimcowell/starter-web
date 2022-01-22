@@ -6,9 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##New Section
+##How To Contribute
 
-Adding some new stuff to see if it works
+Please fork this repository and then issue pull requests for review
 
 ## Another new section
 
