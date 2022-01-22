@@ -12,3 +12,6 @@ Adding some new stuff to see if it works
 
 ## Another new section
 
+###Copyright
+
+2014 Git.Training
